@@ -1,0 +1,36 @@
+{
+  "schema": "audion.build_licenses.pack_manifest.v1",
+  "generated_utc": "2026-08-24T17:49:58Z",
+  "run_id": "20260824T174957Z_audion-zapret-updater_cdb29c61",
+  "project_id": "audion-zapret-updater",
+  "project_name": "Audion Zapret Updater",
+  "scan_root": "S:\\Release\\Audion Zapret Updater",
+  "output_dir": "S:\\Release\\Audion Zapret Updater\\licenses",
+  "files": [
+    {
+      "name": "THIRD_PARTY_NOTICES.txt",
+      "sha256": "1d66538a8423972da13a83894e26c8fe544553979d15ac528dd81857448639cf",
+      "size": 833
+    },
+    {
+      "name": "SOURCE_CODE_AVAILABILITY.txt",
+      "sha256": "c80e94c29b335c97f4e246e41550eb31072a2e4410aa510a3ca94841275b88ad",
+      "size": 652
+    },
+    {
+      "name": "COMPONENTS.json",
+      "sha256": "d15aa612c1e66150e5e725ce3e2919e8660bda2b01bcb1507e1ffb8f8a823682",
+      "size": 254
+    },
+    {
+      "name": "_records.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "size": 3
+    },
+    {
+      "name": "LICENSE_SCAN_REPORT.md",
+      "sha256": "991bf6be4225e22a7231d3169a4008b721094df169696c9017b30664001b3b46",
+      "size": 632
+    }
+  ]
+}
