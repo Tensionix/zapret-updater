@@ -1,7 +1,12 @@
 # Zapret Updater
 
 <!-- audion:release -->
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0b6db8?style=flat-square&logo=windows&logoColor=white)](https://audion.dev/downloads/zapret-updater) [![Release](https://img.shields.io/github/v/release/Tensionix/zapret-updater?style=flat-square&label=release&color=e08a63)](https://github.com/Tensionix/zapret-updater/releases/latest) [![Downloads](https://img.shields.io/github/downloads/Tensionix/zapret-updater/total?style=flat-square&label=downloads&color=5fd08a)](https://github.com/Tensionix/zapret-updater/releases) [![License](https://img.shields.io/github/license/Tensionix/zapret-updater?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600)](https://github.com/Tensionix/zapret-updater/blob/main/LICENSE)
+<p align="center">
+  <a href="https://audion.dev/downloads/zapret-updater"><img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0b6db8?style=flat-square&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/Tensionix/zapret-updater/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/Tensionix/zapret-updater?style=flat-square&label=release&color=e08a63"></a>
+  <a href="https://github.com/Tensionix/zapret-updater/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Tensionix/zapret-updater/total?style=flat-square&label=downloads&color=5fd08a"></a>
+  <a href="https://github.com/Tensionix/zapret-updater/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Tensionix/zapret-updater?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600"></a>
+</p>
 
 **Version 1.0.0** · 2026-08-25 · 395 KB
 
