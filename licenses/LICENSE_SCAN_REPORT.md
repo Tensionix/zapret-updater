@@ -1,7 +1,7 @@
 # Audion Build Licenses Scan Report
 
 - Project: **Audion Zapret Updater** (`audion-zapret-updater`)
-- Run: `20260824T174957Z_audion-zapret-updater_cdb29c61`
+- Run: `20260901T044222Z_audion-zapret-updater_ce15f339`
 - Project root: `S:\Release\Audion Zapret Updater`
 - Scan root: `S:\Release\Audion Zapret Updater`
 - Output: `S:\Release\Audion Zapret Updater\licenses`
