@@ -21,7 +21,7 @@
 <!-- /audion:release -->
 
 
-[Русский](README_RU.md)
+Русский
 
 Installs and updates a traffic-filtering bypass tool with one click.
 
