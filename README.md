@@ -8,12 +8,12 @@
   <a href="https://github.com/Tensionix/zapret-updater/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Tensionix/zapret-updater?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600"></a>
 </p>
 
-**Версия 1.0.2** · 2026-09-02 · 177 KB
+**Версия 1.0.2** · 2026-09-04 · 177 KB
 
-- [Скачать напрямую](https://audion.dev/get/zapret-updater/1.0.2/Audion_Zapret_Updater_v1.0.2_Full.zip) — быстрая раздача, без ограничений
+- [Скачать напрямую](https://dl.audion.dev/zapret-updater/1.0.2/Audion_Zapret_Updater_v1.0.2_Full.zip) — быстрая раздача, без ограничений
 - [Страница проекта](https://audion.dev/downloads/zapret-updater) — все версии и установка
 
-`SHA-256: 2ae81ae34d77abf8e63651b2340dc21b5315d08093c4fd850704ec6b2ce26635`
+`SHA-256: e560f573732f23b6a0ef51ee5896c414cc0d3be98cf6b65b29e895f7314f8733`
 
 ---
 
